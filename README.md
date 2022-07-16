@@ -9,5 +9,4 @@ NoTrace while doing so.
 -Add a game for kids and a way for people to keep track of the work they've done.
 -Have an open forum for people to post locations with photos that need help.
 -Find an easy way to share events through other forms of social media.
--Geotags.
-
+-Geotags. w
